@@ -29,5 +29,10 @@ namespace DockerInfnetDevOpsSample.Controllers
             })
             .ToArray();
         }
+
+        public WeatherForecastController()
+        {
+            
+        }
     }
 }
